@@ -11,9 +11,9 @@ package calculator;
  */
 public class Calculator {
 
-    /**
-     * @param args the command line arguments
-     */
+   public void add(){
+       System.out.println("10+20");
+   }
     public static void main(String[] args) {
         // TODO code application logic here
     }
